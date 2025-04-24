@@ -6,4 +6,4 @@ hola:
   despedida:
     - "¡Adiós! Cuídate mucho Juan."
   ambiente:
-    - "develop"
+    - "main"
