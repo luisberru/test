@@ -5,3 +5,5 @@ hola:
     - "¡Hola! ¿Cómo estás?"
   despedida:
     - "¡Adiós! Cuídate mucho."
+  ambiente:
+    - "main"

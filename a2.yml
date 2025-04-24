@@ -7,3 +7,5 @@ hola:
     - "¡Adiós! Cuídate mucho Luis."
   ambiente:
     - "main"
+  archivo:
+    - "a2.yml"
