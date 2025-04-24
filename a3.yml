@@ -1,0 +1,7 @@
+hola:
+  mensaje:
+    - "Hola, Juan!"
+  saludo: 
+    - "¡Hola! ¿Cómo estás Juan?"
+  despedida:
+    - "¡Adiós! Cuídate mucho Juan."
